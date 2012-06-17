@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@+id/addWork" 
+        android:enabled="true" 
+        android:visible="true" 
+        android:alphabeticShortcut="a" 
+        android:checkable="false" 
+        android:titleCondensed="Add" 
+        android:checked="false" 
+        android:numericShortcut="1" 
+        android:title="Add a New Work">
+    </item>
+</menu>

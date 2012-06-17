@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@+id/saveWork" 
+        android:enabled="true" 
+        android:visible="true" 
+        android:alphabeticShortcut="s" 
+        android:checkable="false" 
+        android:titleCondensed="Save" 
+        android:checked="false" 
+        android:numericShortcut="2" 
+        android:title="Save this Wild Work">
+    </item>
+    <item 
+        android:id="@+id/addWork" 
+        android:enabled="true" 
+        android:visible="true" 
+        android:alphabeticShortcut="a" 
+        android:checkable="false" 
+        android:titleCondensed="Add" 
+        android:checked="false" 
+        android:numericShortcut="1" 
+        android:title="Add a New Sub Work">
+    </item>
+    <item 
+        android:id="@+id/deleteWork" 
+        android:enabled="true" 
+        android:visible="true" 
+        android:alphabeticShortcut="d" 
+        android:checkable="false" 
+        android:titleCondensed="Delete" 
+        android:checked="false" 
+        android:numericShortcut="3" 
+        android:title="Delete this Wild Work">
+    </item>
+</menu>
